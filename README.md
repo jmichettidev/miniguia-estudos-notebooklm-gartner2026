@@ -65,3 +65,6 @@ ChatGPT/Gemini - Auxílio na estruturação da documentação.
 GitHub - Hospedagem e versionamento do projeto.
 
 Projeto desenvolvido para o Desafio de Projeto da DIO.
+
+Link para o meu Caderno de Estudos original:
+https://notebooklm.google.com/notebook/0cc55ff4-cf4d-46dc-96da-bd053b7266ad
